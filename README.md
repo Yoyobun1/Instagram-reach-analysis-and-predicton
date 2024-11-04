@@ -62,27 +62,28 @@
 
 ### 📂 Project Index
 <details open>
-	<summary><b><code>INSTAGRAM-REACH-ANALYSIS-AND-PREDICTON/</code></b></summary>
+	<summary><b><code>INSTAGRAM-REACH-ANALYSIS-AND-PREDICTION/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Instagram-reach-analysis-and-predicton/blob/master/instagram-model.ipynb'>instagram-model.ipynb</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Contains the implementation of the reach analysis model, including data preprocessing and prediction algorithms.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Instagram-reach-analysis-and-predicton/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Lists all the Python packages required to run the analysis and prediction scripts.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Instagram-reach-analysis-and-predicton/blob/master/setup.py'>setup.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Configuration file for packaging and installing the application as a module.</code></td>
 			</tr>
 			</table>
 		</blockquote>
 	</details>
 </details>
+
 
 ---
 ## 🚀 Getting Started
