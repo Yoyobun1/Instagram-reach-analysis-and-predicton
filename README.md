@@ -3,10 +3,6 @@
 </p>
 <p align="center"><h1 align="center">INSTAGRAM-REACH-ANALYSIS-AND-PREDICTON</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Yoyobun1/Instagram-reach-analysis-and-predicton?style=default&logo=opensourceinitiative&logoColor=white&color=0074ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Yoyobun1/Instagram-reach-analysis-and-predicton?style=default&logo=git&logoColor=white&color=0074ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Yoyobun1/Instagram-reach-analysis-and-predicton?style=default&color=0074ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Yoyobun1/Instagram-reach-analysis-and-predicton?style=default&color=0074ff" alt="repo-language-count">
@@ -31,7 +27,6 @@
   - [🧪 Testing](#🧪-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
 - [🙌 Acknowledgments](#-acknowledgments)
 
 ---
@@ -188,7 +183,6 @@ Run the test suite using the following command:
 </details>
 
 ---
-
 
 ## 🙌 Acknowledgments
 
