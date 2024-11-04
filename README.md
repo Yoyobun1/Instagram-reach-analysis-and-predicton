@@ -38,13 +38,19 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<text>This project analyzes Instagram reach and predicts future engagement trends using machine learning. It leverages various algorithms to help users and marketers optimize content strategies and grow their Instagram presence. Key features include data collection, data preprocessing, model training, and performance evaluation. Visualizations of engagement trends are incorporated for insights and decision-making.</text>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+- **Data Collection**: Gathers Instagram engagement data for analysis.
+- **Preprocessing**: Cleans and structures data for accurate modeling.
+- **Feature Engineering**: Extracts key metrics for predicting reach and engagement.
+- **Machine Learning Models**: Trains various algorithms to predict future reach.
+- **Model Evaluation**: Assesses model accuracy and optimizes for best results.
+- **Trend Visualization**: Displays engagement insights through visual charts.
+- **User Insights**: Provides actionable metrics to improve Instagram growth strategies.
 
 ---
 
@@ -186,6 +192,7 @@ Run the test suite using the following command:
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Click the link to watch tutorial: https://www.youtube.com/watch?v=WiymU39Rozk
+- dataset: Instagram data.csv
 
 ---
