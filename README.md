@@ -115,7 +115,7 @@ Install Instagram-reach-analysis-and-predicton using one of the following method
 3. Install the project dependencies:
 
 
-**Using `pip`** &nbsp; [<img align="center" src="" />]()
+**Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Install-pip-blue" />](https://pip.pypa.io/en/stable/installation/)
 
 ```sh
 ❯ echo 'INSERT-INSTALL-COMMAND-HERE'
@@ -124,7 +124,7 @@ Install Instagram-reach-analysis-and-predicton using one of the following method
 
 ### 🤖 Usage
 Run Instagram-reach-analysis-and-predicton using the following command:
-**Using `pip`** &nbsp; [<img align="center" src="" />]()
+**Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Install-pip-blue" />](https://pip.pypa.io/en/stable/installation/)
 
 ```sh
 ❯ echo 'INSERT-RUN-COMMAND-HERE'
@@ -133,7 +133,7 @@ Run Instagram-reach-analysis-and-predicton using the following command:
 
 ### 🧪 Testing
 Run the test suite using the following command:
-**Using `pip`** &nbsp; [<img align="center" src="" />]()
+**Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Install-pip-blue" />](https://pip.pypa.io/en/stable/installation/)
 
 ```sh
 ❯ echo 'INSERT-TEST-COMMAND-HERE'
